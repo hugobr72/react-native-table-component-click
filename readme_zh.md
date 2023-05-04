@@ -14,7 +14,12 @@
 
 - [安装](#安装)
 - [版本日志](#版本日志)
-- [示例](#示例)
+- [Examples](#examples)
+    - [例一](#例一)
+    - [例二](#例二)
+    - [例三](#例三)
+    - [例四](#例四)
+    - [例五](#例五)
 - [组件属性](#组件属性)
 - [注意事项](#注意事项)
 - [License](#license)
@@ -23,7 +28,7 @@
 <br/><br/>
 
 ## 安装
-> npm install react-native-table-component
+> npm install react-native-table-component-click
 
 `USE:`
 ```jsx
@@ -46,8 +51,6 @@ import { Table, TableWrapper, Row, Rows, Col, Cols, Cell } from 'react-native-ta
 ## Examples
 
 #### 例一
-<img src="https://github.com/Gil2015/tools_file/blob/master/img/react-native-table-component/exampleOne.png?raw=true" width="320"/>
-
 ```jsx
 import React, { Component } from 'react';
 import { StyleSheet, View } from 'react-native';
